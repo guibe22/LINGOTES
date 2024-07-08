@@ -1,0 +1,14 @@
+C:\Users\galve\Desktop\PROYECTOS\LINGOTES\lingotes\bin\Debug\net8.0\lingotes.exe
+C:\Users\galve\Desktop\PROYECTOS\LINGOTES\lingotes\bin\Debug\net8.0\lingotes.deps.json
+C:\Users\galve\Desktop\PROYECTOS\LINGOTES\lingotes\bin\Debug\net8.0\lingotes.runtimeconfig.json
+C:\Users\galve\Desktop\PROYECTOS\LINGOTES\lingotes\bin\Debug\net8.0\lingotes.dll
+C:\Users\galve\Desktop\PROYECTOS\LINGOTES\lingotes\bin\Debug\net8.0\lingotes.pdb
+C:\Users\galve\Desktop\PROYECTOS\LINGOTES\lingotes\obj\Debug\net8.0\lingotes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\galve\Desktop\PROYECTOS\LINGOTES\lingotes\obj\Debug\net8.0\lingotes.AssemblyInfoInputs.cache
+C:\Users\galve\Desktop\PROYECTOS\LINGOTES\lingotes\obj\Debug\net8.0\lingotes.AssemblyInfo.cs
+C:\Users\galve\Desktop\PROYECTOS\LINGOTES\lingotes\obj\Debug\net8.0\lingotes.csproj.CoreCompileInputs.cache
+C:\Users\galve\Desktop\PROYECTOS\LINGOTES\lingotes\obj\Debug\net8.0\lingotes.dll
+C:\Users\galve\Desktop\PROYECTOS\LINGOTES\lingotes\obj\Debug\net8.0\refint\lingotes.dll
+C:\Users\galve\Desktop\PROYECTOS\LINGOTES\lingotes\obj\Debug\net8.0\lingotes.pdb
+C:\Users\galve\Desktop\PROYECTOS\LINGOTES\lingotes\obj\Debug\net8.0\lingotes.genruntimeconfig.cache
+C:\Users\galve\Desktop\PROYECTOS\LINGOTES\lingotes\obj\Debug\net8.0\ref\lingotes.dll
